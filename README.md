@@ -1,0 +1,2 @@
+# datalytix
+server ready
